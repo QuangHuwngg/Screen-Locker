@@ -12,7 +12,7 @@ Nó sẽ khóa tất cả các phím trên bàn phím và mã pin có thể đư
 
 # Usage
 Để chuyển đổi tệp .py thành .exe, hãy chạy lệnh bên dưới trong CMD
-trình cài đặt py -F -w screenlocker.py
+trình cài đặt pyinstaller -F -w screenlocker.py
 Bạn sẽ tìm thấy screenlocker.exe mới trong thư mục dist.
 Trước khi tạo file exe hãy thay đổi mật khẩu của bạn từ 12345
 
