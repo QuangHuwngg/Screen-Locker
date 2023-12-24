@@ -3,7 +3,7 @@ Phần mềm ransomware khóa màn hình là một loại phần mềm độc h�
 
 Thông báo được hiển thị bởi ransomware thường bao gồm hướng dẫn về cách trả tiền chuộc cho kẻ tấn công để lấy lại quyền truy cập vào máy tính. Tiền chuộc thường được yêu cầu bằng tiền điện tử như Bitcoin, điều này gây khó khăn cho việc truy tìm khoản thanh toán cho kẻ tấn công và lấy chìa khóa.
 
-<img width="754" alt="screenlocker" src="https://github.com/farooq9/screenlocker/assets/88651754/a42f0aff-1f0c-4ac9-9329-e6677e054546">
+<img width="754" alt="screenlocker" src="https://i.imgur.com/C6qejps.png">
 
 # About
 Hình ảnh hiển thị ở trên là bản demo cho thấy ransomware trông như thế nào sau khi thực thi,
